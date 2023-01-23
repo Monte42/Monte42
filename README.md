@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monte42
 - 👀 I’m interested in all things programming, motorcycles, and snowboarding
-- 🌱 I’m currently learning C++ and reffreshing knowledge on Javascript and Python
+- 🌱 I’m currently about to graduate Coding Dojo (3 Full Stacks)
 - 💞️ I’m looking to collaborate on anything anywhere that gets me a job in the field
 - 📫 How to reach me Best Email: garydumond86@gmail.com
 
